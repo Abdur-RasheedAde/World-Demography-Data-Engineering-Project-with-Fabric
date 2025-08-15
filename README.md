@@ -1,5 +1,12 @@
-# Fabric_Data_Engineering_Project on World Report 
-
+# 🚀 Fabric_Data_Engineering_Project on World Report
+## 🧠 **Author** Abdur-Rasheed Abiodun Adeoye  
+Data Engineer | Data Analyst | Bioinformatics    
+**Date:** August 2025  
+**Domain:** Bioinformatics, Cheminformatics, Drug Discovery  
+**Tools & Libraries:** Python, SQL, Fabric, Apache Spark, Pyspark   
+**Contacts:** - [LinkedIn](https://www.linkedin.com/in/abdur-rasheed-adeoye/)
+              - [GitHub](https://github.com/Abdur-RasheedAde)
+              
 ![Slide1](https://github.com/Abdur-RasheedAde/World_Report_Data_Engineering_Project-Fabric-/blob/main/DE_Architecture.JPG)
 
 ##  Project Overview
